@@ -1,0 +1,19 @@
+html,
+body {
+    background: rgb(73, 250, 3);
+    background: linear-gradient(0deg, rgb(0, 255, 76) 0%, rgba(241, 165, 0, 0.842) 100%);
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    background: burlywood;
+    border: 2px solid black;
+    outline: auto;
+    outline-style: solid;
+    outline-color: rgb(255, 0, 157);
+    border-width: 6px;
+    border-radius: 8px;
+    margin-top: 50px;
+    margin-left: 420px;
+}
